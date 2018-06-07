@@ -1,0 +1,20 @@
+{ "Rules for json files ":[ 
+{
+"TheConverttojsonmacroswillconvert"Yes"intotrueand"No"intofalse.Usethistoproducebooleanresults": "Change data from IHPA to not have long hyphens.  Long hyphens such as the following: "–" do not convert to json"}, 
+{
+"TheConverttojsonmacroswillconvert"Yes"intotrueand"No"intofalse.Usethistoproducebooleanresults": "Hospitals are identified in the data by their names.  Use hospital names in previous versions of the calculator. Update all years of data if a hospital name changes"}, 
+{
+"TheConverttojsonmacroswillconvert"Yes"intotrueand"No"intofalse.Usethistoproducebooleanresults": "The field ED_Level in the facilities tab must be formated as a character for 3a,3b.  Ensure these values are wrapped in double quotes, however numeric levels like 1, 2, 6 can be left without quotes"}, 
+{
+"TheConverttojsonmacroswillconvert"Yes"intotrueand"No"intofalse.Usethistoproducebooleanresults": "The SNAP class 3-112 (Bereavement phase) is not used within NSW and should be removed from the IHPA price weights"}, 
+{
+"TheConverttojsonmacroswillconvert"Yes"intotrueand"No"intofalse.Usethistoproducebooleanresults": "Missing values represented as "." should be deleted.  The Json files should only have bull values (ex. "")"}, 
+{
+"TheConverttojsonmacroswillconvert"Yes"intotrueand"No"intofalse.Usethistoproducebooleanresults": "LOSState1415 and LOSState1516 should have duplicate values for 3-301 : 3-307 with one set being MH and the other NMH"}, 
+{
+"TheConverttojsonmacroswillconvert"Yes"intotrueand"No"intofalse.Usethistoproducebooleanresults": ""}, 
+{
+"TheConverttojsonmacroswillconvert"Yes"intotrueand"No"intofalse.Usethistoproducebooleanresults": ""}, 
+{
+"TheConverttojsonmacroswillconvert"Yes"intotrueand"No"intofalse.Usethistoproducebooleanresults": "This excel file and any json files it is produced should be provided to NWAU calculator developers"}
+]}

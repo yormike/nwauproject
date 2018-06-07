@@ -1,0 +1,13 @@
+{ "SubacuteAdjustment":{ 
+"IndigenousAdj": 0.05,
+"RegionAdj": {"Outer": 0.08,"Remote": 0.18,"VeryRemote": 0.23},
+"PrivSerAdj": {"GEM": 0.034,"Maintenance": 0.016,"PalliativeCare": 0.031,"Psychogeriatric": 0.034,"Rehabilitation": 0.036},
+"PrivAccAdj": {"NSWSameDay": 0.0508,"NSWOvernight": 0.07,"VICSameDay": 0.0498,"VICOvernight": 0.0665,"QLDSameDay": 0.0518,"QLDOvernight": 0.0714,"SASameDay": 0.0508,"SAOvernight": 0.07,"WASameDay": 0.0576,"WAOvernight": 0.07,"TASSameDay": 0.0493,"TASOvernight": 0.0672,"NTSameDay": 0.0508,"NTOvernight": 0.07,"ACTSameDay": 0.0508,"ACTOvernight": 0.07},
+"IndigenousAdj_2014": 0.17,
+"RadiotherapyAdj_2014": 0.24,
+"Paed_adj_2014": 1.96,
+"PaedAge_2014": 17,
+"RegionAdj_2014": {"Outer": 0.07,"Remote": 0.15,"VeryRemote": 0.21},
+"PrivSerAdj_2014": {"GEM": 0.034,"Maintenance": 0.021,"OtherAdmitted": 0.033,"PalliativeCare": 0.026,"Psychogeriatric": 0.033,"Rehabilitation": 0.037},
+"PrivAccAdj_2014": {"NSWSameDay": 0.0487,"NSWOvernight": 0.0673,"VICSameDay": 0.0477,"VICOvernight": 0.0635,"QLDSameDay": 0.0497,"QLDOvernight": 0.0683,"SASameDay": 0.0487,"SAOvernight": 0.0673,"WASameDay": 0.0551,"WAOvernight": 0.0673,"TASSameDay": 0.0471,"TASOvernight": 0.0641,"NTSameDay": 0.0473,"NTOvernight": 0.655,"ACTSameDay": 0.0487,"ACTOvernight": 0.0673}
+}}

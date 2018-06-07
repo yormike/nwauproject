@@ -1,0 +1,15 @@
+{ "AcuteAdjustment":{ 
+    "SPAAdj": {"SPA_Age_MHDA_AchSpec_YYY": 0.15,"SPA_Age_MHDA_AchSpec_YYN": 0.41,"SPA_Age_MHDA_AchSpec_YNN": 0.71,"SPA_Age_MHDA_AchSpec_YNY": 0.58,"SPA_Age_MHDA_AchSpec_NYY": 0,"SPA_Age_MHDA_AchSpec_NYN": 0,"SPA_Age_MHDA_AchSpec_NNY": 0.3,"SPA_Age_MHDA_AchSpec_NNN": 0.3},
+    "IndigenousAdj": 0.04,
+    "RadiotherapyAdj": 0.32,
+    "PaedAge": 17,
+    "RegionAdj": {"Outer": 0.08,"Remote": 0.25,"VeryRemote": 0.29},
+    "RegionTx": {"Remote": 0.08,"VeryRemote": 0.12},
+    "ICUHourlyRate": 0.0439,
+    "Dialysis": 0.27,
+    "PrivAccAdj": {"NSWSameDay": 0.0516,"NSWOvernight": 0.0711,"VICSameDay": 0.0506,"VICOvernight": 0.0681,"QLDSameDay": 0.0528,"QLDOvernight": 0.0729,"SASameDay": 0.0516,"SAOvernight": 0.0711,"WASameDay": 0.0587,"WAOvernight": 0.0711,"TASSameDay": 0.0502,"TASOvernight": 0.0686,"NTSameDay": 0.0516,"NTOvernight": 0.0711,"ACTSameDay": 0.0516,"ACTOvernight": 0.0711},
+    "SPAAge": {"Yes": "<18"},
+    "SPAMHDA": {"Yes": "in (19,20)"},
+    "SPAchSpec": {"Yes": "Specialist Paed ='Yes'"}
+    }}
+    
