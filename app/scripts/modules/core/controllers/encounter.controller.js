@@ -8,6 +8,7 @@ angular.module('nwauCalculatorApp')
         display: 'nwau'
       };
 
+      
       $scope.forms = {};
       $scope.chartValues = [];
       $scope.losChartValues = [];
